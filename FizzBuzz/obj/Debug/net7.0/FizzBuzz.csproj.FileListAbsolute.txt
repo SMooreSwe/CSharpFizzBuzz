@@ -1,0 +1,12 @@
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.deps.json
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.dll
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.pdb
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfo.cs
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.dll
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/refint/FizzBuzz.dll
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.pdb
+/Users/salt-dev/salt/dotnet/fizzbuzz/FizzBuzz/obj/Debug/net7.0/ref/FizzBuzz.dll
